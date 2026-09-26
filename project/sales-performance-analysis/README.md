@@ -45,3 +45,22 @@ python sales_analysis.py
 
 ## Author
 Lulu Waziri
+
+## 📊 Visualizations
+
+### Sales by Region
+
+![Sales by Region](sales_by_region.png)
+
+### Sales by Product
+
+![Sales by Product](sales_by_product.png)
+
+### Sales Over Time
+
+![Sales Over Time](sales_over_time.png)
+
+### Sales by Category
+
+![Sales by Category](sales_by_category.png)
+
