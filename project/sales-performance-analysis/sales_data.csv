@@ -1,0 +1,17 @@
+Date,Product,Category,Region,Quantity,Unit_Price
+05-01-26,Laptop,Electronics,Nairobi,2,75000
+08-01-26,Phone,Electronics,Mombasa,5,45000
+15-01-26,Headphones,Accessories,Nairobi,10,3500
+20-01-26,Mouse,Accessories,Kisumu,8,1500
+03-02-26,Laptop,Electronics,Mombasa,3,75000
+10-02-26,Phone,Electronics,Nairobi,7,45000
+18-02-26,Keyboard,Accessories,Kisumu,6,2500
+25-02-26,Headphones,Accessories,Nairobi,12,3500
+04-03-26,Phone,Electronics,Kisumu,4,45000
+12-03-26,Laptop,Electronics,Nairobi,2,75000
+20-03-26,Mouse,Accessories,Mombasa,15,1500
+28-03-26,Keyboard,Accessories,Nairobi,9,2500
+05-04-26,Phone,Electronics,Mombasa,6,45000
+14-04-26,Laptop,Electronics,Kisumu,3,75000
+22-04-26,Headphones,Accessories,Mombasa,14,3500
+,,,,,498500
