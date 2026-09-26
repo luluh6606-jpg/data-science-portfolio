@@ -64,3 +64,14 @@ Lulu Waziri
 
 ![Sales by Category](sales_by_category.png)
 
+## 🔍 Key Findings
+
+The analysis produced the following findings:
+
+- **Total Revenue:** 1,938,000
+- **Average Sale:** 129,200
+- **Maximum sales:** 315,000
+- **Top-performing product:** See the product analysis above.
+- **Top-performing region:** See the regional analysis above.
+
+These findings help identify areas of strong sales performance and provide a basis for further business analysis.
